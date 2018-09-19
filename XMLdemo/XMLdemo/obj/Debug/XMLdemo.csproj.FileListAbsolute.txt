@@ -1,0 +1,9 @@
+C:\Users\MTCStudent\Desktop\XMLdemo\XMLdemo\XMLdemo\bin\XMLdemo.dll.config
+C:\Users\MTCStudent\Desktop\XMLdemo\XMLdemo\XMLdemo\bin\XMLdemo.dll
+C:\Users\MTCStudent\Desktop\XMLdemo\XMLdemo\XMLdemo\bin\XMLdemo.pdb
+C:\Users\MTCStudent\Desktop\XMLdemo\XMLdemo\XMLdemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MTCStudent\Desktop\XMLdemo\XMLdemo\XMLdemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MTCStudent\Desktop\XMLdemo\XMLdemo\XMLdemo\obj\Debug\XMLdemo.csprojResolveAssemblyReference.cache
+C:\Users\MTCStudent\Desktop\XMLdemo\XMLdemo\XMLdemo\obj\Debug\XMLdemo.csproj.CoreCompileInputs.cache
+C:\Users\MTCStudent\Desktop\XMLdemo\XMLdemo\XMLdemo\obj\Debug\XMLdemo.dll
+C:\Users\MTCStudent\Desktop\XMLdemo\XMLdemo\XMLdemo\obj\Debug\XMLdemo.pdb
