@@ -7,3 +7,13 @@ C:\Users\MTCStudent\Desktop\XMLdemo\XMLdemo\XMLdemo\obj\Debug\XMLdemo.csprojReso
 C:\Users\MTCStudent\Desktop\XMLdemo\XMLdemo\XMLdemo\obj\Debug\XMLdemo.csproj.CoreCompileInputs.cache
 C:\Users\MTCStudent\Desktop\XMLdemo\XMLdemo\XMLdemo\obj\Debug\XMLdemo.dll
 C:\Users\MTCStudent\Desktop\XMLdemo\XMLdemo\XMLdemo\obj\Debug\XMLdemo.pdb
+G:\C#\XMLdemo\XMLdemo\XMLdemo\bin\XMLdemo.dll.config
+G:\C#\XMLdemo\XMLdemo\XMLdemo\bin\XMLdemo.dll
+G:\C#\XMLdemo\XMLdemo\XMLdemo\bin\XMLdemo.pdb
+G:\C#\XMLdemo\XMLdemo\XMLdemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\C#\XMLdemo\XMLdemo\XMLdemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\C#\XMLdemo\XMLdemo\XMLdemo\obj\Debug\XMLdemo.csprojAssemblyReference.cache
+G:\C#\XMLdemo\XMLdemo\XMLdemo\obj\Debug\XMLdemo.csproj.CoreCompileInputs.cache
+G:\C#\XMLdemo\XMLdemo\XMLdemo\obj\Debug\XMLdemo.csproj.CopyComplete
+G:\C#\XMLdemo\XMLdemo\XMLdemo\obj\Debug\XMLdemo.dll
+G:\C#\XMLdemo\XMLdemo\XMLdemo\obj\Debug\XMLdemo.pdb
