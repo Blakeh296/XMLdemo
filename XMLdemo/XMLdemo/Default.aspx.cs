@@ -49,6 +49,7 @@ namespace XMLdemo
             GridView1.AutoGenerateColumns = true;
             //Set the GV Datasource equal to the DataSet
             GridView1.DataSource = dsXML;
+
             //Bind the DataSet with the GridView
             GridView1.DataBind();
         }
@@ -57,8 +58,13 @@ namespace XMLdemo
         {
             XmlDocument document = new XmlDocument();
             document.Load(@"G:\C#\XMLdemo\XMLdemo\XMLdemo\MOCK_DATA.xml");
+            XmlElement contactElement = document.CreateElement("first_Name");
+            XmlText txt = document.CreateTextNode(tbFirstName.Text);
+            document.DocumentElement.AppendChild(contactElement);
+            document.DocumentElement.LastChild.AppendChild(txt);
 
-            document.SelectSingleNode(@"/DataSet/MOCK_DATA[2]").Attributes["first_name"].InnerText = tbFirstName.Text;
+           // document.SelectSingleNode(@"/DataSet/MOCK_DATA[2]").Attributes["first_name"].InnerText = tbFirstName.Text;
+
             GridView1.SelectedRow.Cells[2].Text = tbFirstName.Text;
 
             GridView1.SelectedRow.Cells[3].Text = tbLastName.Text;
